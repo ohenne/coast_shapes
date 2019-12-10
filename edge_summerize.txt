@@ -1,3 +1,4 @@
+54 561 721
 54,589,580  points in total
 54,589,580  points considered
 636,385  shapes imported
